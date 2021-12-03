@@ -18,5 +18,5 @@ const {
     Customers
 } = require("./models");
 
-const // = require("./models/ //");
+const customer = require("./models/customers");
 
